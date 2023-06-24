@@ -1,0 +1,23 @@
+{
+  "name": "complex-typescript-type",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pierluigigiancola/complex-typescript-type.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pierluigigiancola/complex-typescript-type/issues"
+  },
+  "homepage": "https://github.com/pierluigigiancola/complex-typescript-type#readme",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
